@@ -1,0 +1,19 @@
+body {
+	background-color:powderblue;
+}
+h1 {
+	color: blue;
+    font-family: courier;
+    font-size: 300%;
+}
+p {
+	color: red;
+    font-family: verdana;
+    font-size: 150%;
+    border: 10px solid green;
+    padding: 30px;
+    margin: 50px;
+}
+p.error {
+  color: green;
+}
